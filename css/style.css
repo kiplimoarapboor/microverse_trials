@@ -1,3 +1,15 @@
+body {
+    background-color: #eee;
+}
+
+header, figure#img-div, section#tribute-info {
+    margin: 0 auto;
+}
+
+header, figure#img-div, h2, h3 {
+    text-align: center;
+}
+
 #image {
     max-width: 100%;
     height: auto;
